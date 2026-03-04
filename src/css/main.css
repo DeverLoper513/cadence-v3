@@ -217,3 +217,5 @@ body {
 #modalDescription legend {
     float: unset;
 }
+
+.accordion-body{background-color: #EBE5DF;}
